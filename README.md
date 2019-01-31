@@ -1,4 +1,4 @@
-# LCS
+# LCS (Group Collaboration)
 Longest Common Substring--Dynamic Programming Implementation
 By: Novia H., Chris C., Ryan M.
 
