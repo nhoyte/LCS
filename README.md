@@ -1,5 +1,6 @@
 # LCS
 Longest Common Substring--Dynamic Programming Implementation
+By: Novia H., Chris C., Ryan M.
 
 
 IDE: Eclipse Jee Photon 64-bit (Using JDK 10.0.2)
